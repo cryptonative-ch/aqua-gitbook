@@ -1,6 +1,6 @@
 ---
 description: >-
-  "Aqua v2",  with the codename Aqua, is an open source protocol created, owned,
+  Aqua is an open IDO platform created, owned,
   maintained & hosted by dxDAO.
 ---
 
