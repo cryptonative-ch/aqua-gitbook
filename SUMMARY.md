@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mesa](README.md)
+* [Aqua](README.md)
 * [Roadmap](roadmap-1.md)
 * [Protocol Primer](protocol-primer.md)
 * [FAQs](faqs.md)

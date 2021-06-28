@@ -1,20 +1,20 @@
 ---
 description: >-
-  Aqua is an open IDO platform created, owned,
+  "Mesa v2",  with the codename Aqua, is an open source protocol created, owned,
   maintained & hosted by dxDAO.
 ---
 
 # Aqua
 
- **What is Aqua?** 
+ **What is Mesa?** 
 
-Aqua is the place to conduct transparent token auctions with a fair price discovery. It is designed with the aim to make everyone's life easier.
+Mesa is the place to conduct transparent token auctions with a fair price discovery. It is designed with the aim to make everyone's life easier.
 
-Different projects have different needs and not all tokens are created equal. With Aqua projects are given the opportunity to devise fair decentralized auctions themselves. Whether you wish to conduct an Initial DEX Offering, a private sale, a batch auction, a fixed price sale, utilize a bonding curve, run token buy-backs, or collateral liquidation auctions, we provide the main infrastructure that will allow you the flexibility to meet your specific requirements. 
+Different projects have different needs and not all tokens are created equal. With Mesa projects are given the opportunity to devise fair decentralized auctions themselves. Whether you wish to conduct an Initial DEX Offering, a private sale, a batch auction, a fixed price sale, utilize a bonding curve, run token buy-backs, or collateral liquidation auctions, we provide the main infrastructure that will allow you the flexibility to meet your specific requirements. 
 
 In the near future, every project could even plug their sale mechanism into our system, to reflect their social and technical needs. The diversity of sale mechanisms allows sellers to choose the one which best fits their tokenomics, investor community & funding stage.
 
-Thus, Aqua is the one-stop shop protocol that provides crypto teams with all the tools needed to successfully raise capital in a decentralized way, while they stay focused building. It also gives investors the opportunity to support and invest in crypto projects in the most fair and trustless manner.
+Thus, Mesa is the one-stop shop protocol that provides crypto teams with all the tools needed to successfully raise capital in a decentralized way, while they stay focused building. It also gives investors the opportunity to support and invest in crypto projects in the most fair and trustless manner.
 
 Key protocol features are:
 
@@ -26,7 +26,7 @@ Key protocol features are:
 * _Non-custodial:_
   * In a fully decentralized manner for both investors and sellers, the exchange takes no custody of any wallets, so all participants retain full control of their private keys.
 
-**– Who is using Aqua?**
+**– Who is using Mesa?**
 
 Traders; Investors; Businesses raising capital; Companies doing token buybacks
 
@@ -43,7 +43,7 @@ Traders; Investors; Businesses raising capital; Companies doing token buybacks
 * Private Sales
   * Permissioned and custom-tailored to a project's liking.
 * Batch Auctions
-  * Teams who wish to provide transparency to their supporters in auctioning their token, can use Aqua's FairSale mechanism with batch auctions. FairSale represents a trustless and efficient way for a fair price discovery. On one hand, bidders determine the highest price they are willing to pay, and on the other, auctioneers also set the minimum price at which they are willing to sell their tokens. This price dynamic matches all limit orders with one clearing price in the end to allow for a fair token distribution, where all participants end up with no less than what they bargained for. Batching in time intervals aids in reducing miner-extractable value and front-running, which would otherwise negatively impact bidders and auctioneers.
+  * Teams who wish to provide transparency to their supporters in auctioning their token, can use Mesa's FairSale mechanism with batch auctions. FairSale represents a trustless and efficient way for a fair price discovery. On one hand, bidders determine the highest price they are willing to pay, and on the other, auctioneers also set the minimum price at which they are willing to sell their tokens. This price dynamic matches all limit orders with one clearing price in the end to allow for a fair token distribution, where all participants end up with no less than what they bargained for. Batching in time intervals aids in reducing miner-extractable value and front-running, which would otherwise negatively impact bidders and auctioneers.
 * Fixed Price Sales
   * A fixed amount of tokens get offered at a pre-determined fixed price, on a first-come first-served basis, until sold out. There's also a cap on the size each investor can purchase. Insiders, e.g. foundation, early investors or dev team, are pre-allocated a fixed percentage of the total token supply. Some sales offer discounted rates for limited periods, in order to incentivize early participation.
 * Bonding Curves
