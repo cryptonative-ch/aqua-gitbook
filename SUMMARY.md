@@ -27,7 +27,7 @@
   * [Bounties](developers-1/contribution-opportunities/bounties.md)
 * [Smart Contracts](developers-1/smart-contracts/README.md)
   * [Deployed Contracts](developers-1/smart-contracts/deployed-contracts.md)
-  * [Mesa Factory](developers-1/smart-contracts/mesa-factory.md)
+  * [Aqua Factory](developers-1/smart-contracts/aqua-factory.md)
   * [Template Launcher](developers-1/smart-contracts/template-launcher.md)
   * [Sale Launcher](developers-1/smart-contracts/sale-launcher.md)
   * [Fixed Price Sale](developers-1/smart-contracts/fixed-price-sale.md)

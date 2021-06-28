@@ -10,11 +10,11 @@ Terminology
 * **Token Sale Project**: Team that initializes an IDO campaign
 * **Token Sale Manage**r: Elected address during IDO that has organizational permissions
 * **Accredition Manager:** Elected address during IDO that had permission to manage participant approvals
-* **DAO / Curator:** Organization that governs Mesa protocol parameters & curates Module installations
-* **Developers:** External developers that extend Mesa with Auction Modules & Investor Registry Plugins
+* **DAO / Curator:** Organization that governs Aqua protocol parameters & curates Module installations
+* **Developers:** External developers that extend Aqua with Auction Modules & Investor Registry Plugins
 * **Investor:** IDO Sale Participants
 * **Protocol Parameters:** Protocol wide variables as Fees, FeeReceivers & Co
-* **Modules / Plugins / Extensions / Add-Ons/ Components:** Smart Contracts & Frontend components from \(external\) developers to extend Mesa
+* **Modules / Plugins / Extensions / Add-Ons/ Components:** Smart Contracts & Frontend components from \(external\) developers to extend Aqua
 * **IDO** Initial Decentralized Offering or Initial DEX Offering
 * **DEX** Decentralized Exchange, a blockchain running on a blockchain
 * **Virtual Settlement Price** Current Price

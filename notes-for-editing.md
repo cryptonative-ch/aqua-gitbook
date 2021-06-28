@@ -6,7 +6,7 @@ We should make 4 parts for different target group:
 
 Investors, investing into a IDO
 
-IDO Projects to make an IDO on Mesa
+IDO Projects to make an IDO on Aqua
 
 B2B white label for investor community
 
