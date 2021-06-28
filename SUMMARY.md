@@ -12,10 +12,10 @@
 ## IDO Projects
 
 * [Getting started](ido-projects/getting-started.md)
-* [Launching a Sale on Mesa](ido-projects/launching-an-ido-on-mesa.md)
-* [Mesa Templates](ido-projects/mesa-templates/README.md)
-  * [Fair Sale](ido-projects/mesa-templates/fairsale.md)
-  * [Fixed Price Sale](ido-projects/mesa-templates/fixedpricesale.md)
+* [Launching a Sale on Aqua](ido-projects/launching-an-ido-on-aqua.md)
+* [Aqua Templates](ido-projects/aqua-templates/README.md)
+  * [Fair Sale](ido-projects/aqua-templates/fairsale.md)
+  * [Fixed Price Sale](ido-projects/aqua-templates/fixedpricesale.md)
 * [IDO Checklist](ido-projects/ido-checklist.md)
 
 ## Developers <a id="developers-1"></a>
@@ -36,7 +36,7 @@
 * [Subgraphs](developers-1/subgraphs.md)
 * [Dapp](developers-1/dapp.md)
 
-## Join Mesa <a id="joinus"></a>
+## Join Aqua <a id="joinus"></a>
 
 * [Open Positions](joinus/current-positions.md)
 
