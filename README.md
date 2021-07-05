@@ -1,12 +1,12 @@
 ---
-description: 'Aqua is an open IDO platform created, owned, maintained & hosted by dxDAO.'
+description: 'An open source IDO platform created, owned, maintained & hosted by DXdao.'
 ---
 
 # Aqua
 
 **What is Aqua?**
 
-Aqua is the place to conduct transparent token auctions with a fair price discovery. It is designed with the aim to make everyone's life easier.
+Aqua is the go-to place to participate in or conduct transparent token offerings. It is a multi-sided marketplace designed with the aim to make everyone's life easier.
 
 Different projects have different needs and not all tokens are created equal. With Aqua projects are given the opportunity to devise fair decentralized auctions themselves. Whether you wish to conduct an Initial DEX Offering, a private sale, a batch auction, a fixed price sale, utilize a bonding curve, run token buy-backs, or collateral liquidation auctions, we provide the main infrastructure that will allow you the flexibility to meet your specific requirements.
 
