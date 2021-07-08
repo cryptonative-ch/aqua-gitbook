@@ -4,23 +4,23 @@
 
 | Contract | Rinkeby | xDai | Mainnet |
 | :--- | :--- | :--- | :--- |
-| MesaFactory | [Contract](https://rinkeby.etherscan.io/address/0xd0ab3620E1A592FD26E115EAcd59E6FE62C6c421) | [Contract](https://blockscout.com/poa/xdai/address/0xefb5490683bE4AE8de4bFB05a84Ef0F79d9DC2db/contracts) |  |
-| TemplateLauncher | [Contract](https://rinkeby.etherscan.io/address/0x2Fb3C82b749f806A954E2b41A1e692196be466a8) | [Contract](https://blockscout.com/poa/xdai/address/0x1C55a988E025492dDcf872CA68a8562dfEBAe5C9/contracts) |  |
-| SaleLauncher | [Contract](https://rinkeby.etherscan.io/address/0xF9008327125bB1315a4577F034E4FF5C81248d90) | [Contract](https://blockscout.com/poa/xdai/address/0x646219EaE83eD7dff641332B36402350FA9a0CdA/contracts) |  |
+| MesaFactory | [Contract](https://rinkeby.etherscan.io/address/0x6f90a6b92b69a775d0a2231011b3704d876b51a8#code) | [Contract](https://blockscout.com/xdai/mainnet/address/0x6897427e8d129d040F066a3Dcb106da91e84ab47/transactions) |  |
+| TemplateLauncher | [Contract](https://rinkeby.etherscan.io/address/0xA731dEc18bD791D817bd67E9944793D5BF76f5C0#code) | [Contract](https://blockscout.com/xdai/mainnet/address/0x1c1006D122A7f09A047f42D16464A3e7fBdB24C2/contracts) |  |
+| SaleLauncher | [Contract](https://rinkeby.etherscan.io/address/0xc4dc3661c064340ee4aD5A776755B441E479d5B6#code) | [Contract](https://blockscout.com/xdai/mainnet/address/0xfa4Fbd5DC4a0C3aE54aA3a1fE52099d7d6F94227/contracts) |  |
 
 **Sales Modules**
 
 | Contract | Rinkeby | xDai | Mainnet |
 | :--- | :--- | :--- | :--- |
-| FairSale | Contract | [Contract](https://blockscout.com/poa/xdai/address/0x2eAC3308124bf82d704092f6c4cD3f12a8c1dfCF/contracts) |  |
-| FixedPriceSale | [Contract](https://rinkeby.etherscan.io/address/0xBDa22078C6597dB22bFc24CD642D4Aa35BcE217E) | [Contract](https://blockscout.com/xdai/mainnet/address/0x2da878889571b63678A2F4A195f39a2aC0dF11A7/transactions) |  |
+| FairSale | [Contract](https://rinkeby.etherscan.io/address/0xfe4dcf0386683a318c8519a35843a73dbab1c723#code) | [Contract](https://blockscout.com/xdai/mainnet/address/0x71432164Ed7D3bE025b1DF6ae057071Ab11c4fb3/contracts) |  |
+| FixedPriceSale | [Contract](https://rinkeby.etherscan.io/address/0xa4738f96ba48728671547f0998fae62077de4672#code) | [Contract](https://blockscout.com/xdai/mainnet/address/0xe1F1d1e92ebAf64cFCFc2F39c2D6B21EaC71f41B/contracts) |  |
 
 **Templates**
 
 | Contract | Rinkeby | xDai | Mainnet |
 | :--- | :--- | :--- | :--- |
-| FairSaleTemplate | [Contract](https://rinkeby.etherscan.io/address/0x1B7E008CD0d32FF64A1d11EFC6FDA349aef08FEC) | [Contract](https://blockscout.com/xdai/mainnet/address/0x3a98C3CB71957c78E16B3b8a9A9899749190B12f/) |  |
-| FixedPriceSaleTemplate | [Contract](https://rinkeby.etherscan.io/address/0xd0c74B9cA1CBeD86cB5a80cd54D72c4D96E13Bd0) | [Contract](https://blockscout.com/xdai/mainnet/address/0x1B5f4Cd95B8652EC087d2d74ffD1bA31353e45E8) |  |
+| FairSaleTemplate | [Contract](https://rinkeby.etherscan.io/address/0xC59F8CF5D4E8365ccD54f26f31C560D6FF6836A1#code) | [Contract](https://blockscout.com/xdai/mainnet/address/0xe83B3ac79A9EDbA0dB9eAA78B209f6949641EDfF/contracts) |  |
+| FixedPriceSaleTemplate | [Contract](https://rinkeby.etherscan.io/address/0x165645f4375C60999fa2d84859700D0f9b4735a5#code) | [Contract](https://blockscout.com/xdai/mainnet/address/0x14f418bb57Ad2b3D82Ce17D5c2D2151854AAeFAB/contracts) |  |
 
 \*\*\*\*
 
